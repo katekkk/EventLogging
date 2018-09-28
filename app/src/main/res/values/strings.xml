@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Event Logging</string>
+    <string name="add_button">ADD EVENT</string>
+</resources>
